@@ -12,3 +12,32 @@ Zadanie polega na tym by po podaniu jakiejś liczby n, program wypisał n-tą (o
 - przekonwertowaną liczbę binarną (tą z piatkami i szóstkami)
 
 ### Przykłady
+Przykład 1
+
+Wejście:
+
+1
+
+Wyjście:
+
+5
+
+Przykład 2
+
+Wejście:
+
+10
+
+Wyjście:
+
+566
+
+Przykład 3
+
+Wejście:
+
+12345
+
+Wyjście:
+
+6555555666565
