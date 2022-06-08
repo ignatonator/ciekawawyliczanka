@@ -1,5 +1,5 @@
 # ciekawawyliczanka
-Rozwiązanie zadania z Ciekawa Wyliczanka z platformy SPOJ [The-Ultimate-Markdown-Cheat-Sheet (https://pl.spoj.com/problems/ETI06F2/)
+Rozwiązanie zadania z Ciekawa Wyliczanka z platformy [SPOJ](https://pl.spoj.com/problems/ETI06F2/)
 
 ### Na czym polega?
 Zadanie polega na tym by po podaniu jakiejś liczby n, program wypisał n-tą (od najmniejszej) liczbe ciekawą, czyli taką która składa się tylko z cyfr **5** i **6**.
